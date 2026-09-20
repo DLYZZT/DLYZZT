@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="204" viewBox="0 0 900 204" role="img" aria-labelledby="title desc">
+<title id="title">DLYZZT · GitHub Stars</title>
+<desc id="desc">240 stars received across 21 public repositories. 8 repositories have stars. Updated 2026-09-20 01:02 UTC.</desc>
+<defs><linearGradient id="accent"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#818cf8"/></linearGradient></defs>
+<rect x=".5" y=".5" width="899" height="203" rx="16" fill="#ffffff" stroke="#dce3f2"/>
+<g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif">
+<text x="32" y="41" fill="#6366f1" font-size="15" font-weight="600" letter-spacing="1.5">★ GITHUB STARS</text>
+<text x="32" y="135" fill="#17213b" font-size="72" font-weight="700" letter-spacing="-3">240</text>
+<path d="M352 66V148" stroke="#dce3f2"/>
+<text x="390" y="41" fill="#5c6a85" font-size="12" letter-spacing="1.5">MOST STARRED</text>
+<text x="390" y="90" fill="#17213b" font-size="15">pi-desktop</text>
+<text x="860" y="90" fill="#6366f1" text-anchor="end" font-size="15" font-weight="600">220</text>
+<rect x="390" y="100" width="470" height="5" rx="2.5" fill="#f1f3fc"/>
+<rect x="390" y="100" width="470.00" height="5" rx="2.5" fill="url(#accent)"/><text x="390" y="133" fill="#17213b" font-size="15">bash-agent</text>
+<text x="860" y="133" fill="#6366f1" text-anchor="end" font-size="15" font-weight="600">10</text>
+<rect x="390" y="143" width="470" height="5" rx="2.5" fill="#f1f3fc"/>
+<rect x="390" y="143" width="21.36" height="5" rx="2.5" fill="url(#accent)"/>
+<path d="M32 168H868" stroke="#dce3f2"/>
+<text x="32" y="190" fill="#5c6a85" font-size="11">@DLYZZT · PUBLIC REPOSITORIES</text>
+<text x="868" y="190" fill="#5c6a85" font-size="11" text-anchor="end">UPDATED 2026-09-20 01:02 UTC</text>
+</g></svg>

@@ -16,7 +16,7 @@
   <a href="https://x.com/dlyzzt">𝕏 @dlyzzt</a>
 </p>
 
-## 把 Agent 带到桌面
+## Agent
 
 ### [Pi Agent Desktop](https://github.com/DLYZZT/pi-desktop)
 
@@ -28,14 +28,24 @@
 
 **[下载体验 ↗](https://github.com/DLYZZT/pi-desktop/releases/latest)** &nbsp; · &nbsp; [查看源码](https://github.com/DLYZZT/pi-desktop) &nbsp; · &nbsp; [反馈问题](https://github.com/DLYZZT/pi-desktop/issues)
 
+### [Bash Agent](https://github.com/DLYZZT/bash-agent)
+
+面向命令执行的智能 Agent，让终端成为 AI 的工作空间。
+
+<p>
+  <sub>Python &nbsp; · &nbsp; CLI Agent</sub>
+</p>
+
+[查看源码](https://github.com/DLYZZT/bash-agent) &nbsp; · &nbsp; [反馈问题](https://github.com/DLYZZT/bash-agent/issues)
+
 ## 小工具
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>⌘ &nbsp; <a href="https://github.com/DLYZZT/bash-agent">Bash Agent</a></h4>
-      <p>面向命令执行的智能 Agent，让终端成为 AI 的工作空间。</p>
-      <p><sub>PYTHON &nbsp; / &nbsp; CLI AGENT</sub></p>
+      <h4>☀ &nbsp; <a href="https://github.com/DLYZZT/china-weather-mcp-server">China Weather MCP</a></h4>
+      <p>接入高德天气 API，让 AI 助手通过 MCP 查询中国城市的实时天气。</p>
+      <p><sub>PYTHON &nbsp; / &nbsp; MCP</sub></p>
     </td>
     <td width="50%" valign="top">
       <h4>◎ &nbsp; <a href="https://github.com/DLYZZT/llm-council-webui">LLM Council</a></h4>
@@ -56,6 +66,16 @@
     </td>
   </tr>
 </table>
+
+## GitHub Stars
+
+<a href="https://github.com/DLYZZT?tab=repositories">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/github-stars-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/github-stars-light.svg" />
+    <img src="assets/github-stars-light.svg" alt="DLYZZT 的公开仓库 Star 总数与获得 Star 最多的项目。" width="100%" />
+  </picture>
+</a>
 
 ## 技术栈
 
